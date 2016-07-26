@@ -185,7 +185,7 @@ else
 	if test "${LOCALVERSION+set}" != "set"; then
 		scm=$(scm_version --short)
 		if test "$CONFIG_GZR_EXTRAVERSION" = "y"; then
-		res="_GZR_Drunk_Engine"
+		res="_Drunk_Owl_Core"
 		else
 		res="$res"
 		fi
